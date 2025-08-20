@@ -35,6 +35,9 @@ A **1:1 real-time chat app** built with **React Native** (frontend) and **Node.j
 <img width="941" height="434" alt="image" src="https://github.com/user-attachments/assets/7c183438-d507-46e5-9250-6067b6f6f931" />
 <img width="947" height="450" alt="image" src="https://github.com/user-attachments/assets/ffa9ed98-7786-4b2f-b161-50bc391ec705" />
 
+# Clone the repository
+git clone https:
+
 
 ## Environment Variables
 
@@ -44,6 +47,8 @@ Create a `.env` file in `/server`:
 PORT=5000
 JWT_SECRET=your_jwt_secret
 MONGO_URI=mongodb://localhost:27017/chatapp
+
+
 
 
 
