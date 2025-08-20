@@ -36,7 +36,15 @@ A **1:1 real-time chat app** built with **React Native** (frontend) and **Node.j
 <img width="947" height="450" alt="image" src="https://github.com/user-attachments/assets/ffa9ed98-7786-4b2f-b161-50bc391ec705" />
 
 # Clone the repository
-git clone https:
+git clone https: https://github.com/Shaunak-bit/ChatAPP.git
+
+### For frontend
+cd whatshapp-web
+npm start
+
+### For backend
+cd chatapp-backend 
+npm run dev 
 
 
 ## Environment Variables
@@ -44,9 +52,9 @@ git clone https:
 Create a `.env` file in `/server`:
 
 ```env
-PORT=5000
-JWT_SECRET=your_jwt_secret
-MONGO_URI=mongodb://localhost:27017/chatapp
+PORT
+JWT_SECRET
+MONGO_URI
 
 
 
